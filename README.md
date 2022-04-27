@@ -4,7 +4,7 @@ Hi 👋 My name is Isaiah Bjorklund
 Full-Stack Developer
 --------------------
 
-I have been learning to code for 6 years and when I first started it was with HTML/CSS/JS. Now I focus on web apps and mobile apps written with a MERN stack.
+I have been learning to code for 6 years and when I first started it was with HTML/CSS/JS. Now, I focus on web apps and mobile apps written with a MERN stack.
 
 * 🌍  I'm based in Arizona
 * 🖥️  See my portfolio at [Modev Labs](http://modevlabs.com)
