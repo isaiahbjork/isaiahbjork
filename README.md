@@ -1,18 +1,12 @@
-Hi 👋 My name is Isaiah Bjorklund
+Hi 👋 My name is Zay
 =================================
 
 Full-Stack Developer
 --------------------
 
-I have been learning to code for 6 years and when I first started it was with HTML/CSS/JS. Now, I focus on web apps and mobile apps written with a MERN stack.
+I have been writing code for 7 years and when I first started it was with HTML/CSS/JS. Now, I focus on web apps and mobile apps written with a MERN stack.
 
-* 🌍  I'm based in Arizona
-* 🖥️  See my portfolio at [Modev Labs](http://modevlabs.com)
-* ✉️  You can contact me at [isaiah@modevlabs.com](mailto:isaiah@modevlabs.com)
 
-<a href="https://www.twitter.com/zaysrt_" target="_blank" rel="noreferrer"><img
-src="https://img.shields.io/twitter/follow/zaysrt_?logo=twitter&style=for-the-badge&color=a855f7&labelColor=1c1917"
-/></a>
 ### Skills
 
 <p align="left">
@@ -48,4 +42,4 @@ src="https://img.shields.io/twitter/follow/zaysrt_?logo=twitter&style=for-the-ba
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/isaiahbjork" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zaysrt_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/zaysrt_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.github.com/isaiahbjork" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zaysrt_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/zaysrt_" target="_blank" rel="noreferrer">
