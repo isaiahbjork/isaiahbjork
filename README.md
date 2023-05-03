@@ -4,8 +4,11 @@ Hi 👋 My name is Zay
 Full-Stack Developer
 --------------------
 
-I have been writing code for 7 years and when I first started it was with HTML/CSS/JS. Now, I focus on web apps and mobile apps written with a MERN stack.
+👾 I'm a versatile software engineer with a love for coding that dates back to 2016. My journey began with crafting beautiful and responsive web designs using HTML, CSS, and JavaScript. Over the years, my interests have evolved, and I now specialize in building innovative software, web applications, and mobile apps.
 
+💻 My current tech stack includes various JavaScript frameworks (such as React, Angular, and Vue), Python, and Django for backend development. I'm always eager to learn new technologies to stay up-to-date with the fast-paced world of software engineering!
+
+🚀 I'm passionate about delivering high-quality, user-friendly solutions that cater to the unique needs of my clients. Feel free to browse my GitHub repositories to explore my projects and appreciate the hard work that goes into creating exceptional digital experiences! Let's connect and collaborate to build the next big thing! 🌐
 
 ### Skills
 
@@ -42,4 +45,6 @@ I have been writing code for 7 years and when I first started it was with HTML/C
 
 ### Socials
 
-<p align="left"> <a href="https://www.github.com/isaiahbjork" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/zaysrt_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/zaysrt_" target="_blank" rel="noreferrer">
+<p align="left"> <a href="https://www.github.com/isaiahbjork" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> 
+<a href="http://www.instagram.com/zaysrt_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
+<a href="https://www.youtube.com/channel/UCq0aOdzVw_Adp57qiJnrlKQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
