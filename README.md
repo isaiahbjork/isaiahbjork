@@ -9,7 +9,7 @@ Always Building & Shipping 🏗️🚢
 
 Join the waitlist for Allyson AI - Your New 10x Employee
 
-[https://allyson.ai](https://allyson.ai)
+[allyson.ai](https://allyson.ai)
 
 
 ### Skills
