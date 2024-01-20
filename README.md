@@ -6,6 +6,12 @@ Full-Stack Developer
 
 Always Building & Shipping 🏗️🚢
 
+
+Join the waitlist for Allyson AI - Your New 10x Employee
+
+[https://allyson.ai](https://allyson.ai)
+
+
 ### Skills
 
 <p align="left">
@@ -42,5 +48,4 @@ Always Building & Shipping 🏗️🚢
 ### Socials
 
 <p align="left"> 
-<a href="http://www.instagram.com/zaysrt_" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a>
 <a href="https://www.youtube.com/channel/UCq0aOdzVw_Adp57qiJnrlKQ" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/youtube.svg" width="32" height="32" /></a>
