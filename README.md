@@ -1,6 +1,3 @@
-Founder & Dev
---------------------
-
 Building Allyson.
 
 [allyson.ai](https://allyson.ai)
